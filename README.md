@@ -8,7 +8,7 @@
 <h1 align="center">Thiago Dias de Figueiredo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor Python;Apaixonado+por+tecnologia%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor Python;Apaixonado+por+tecnologia%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 
@@ -26,12 +26,12 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThiagoDiasFigueiredo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDiasFigueiredo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoDiasFigueiredo&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 ---
@@ -42,12 +42,12 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/ThiagoDiasFigueiredo/Assistente-de-voz-Spotify">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoDiasFigueiredo&repo=Assitente-de-voz-Spotify&theme=tokyonight&hide_border=true" alt="Projeto 1" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoDiasFigueiredo&repo=Assitente-de-voz-Spotify&theme=tokyonight&hide_border=true" alt="Assistente de voz para Spotify" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/ThiagoDiasFigueiredo/Caca_ao_tesouro_Pygame">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoDiasFigueiredo&repo=Caca_ao_tesouro_Pygame&theme=tokyonight&hide_border=true" alt="Projeto 2" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoDiasFigueiredo&repo=Caca_ao_tesouro_Pygame&theme=tokyonight&hide_border=true" alt="Caça ao tesouro" />
       </a>
     </td>
   </tr>
