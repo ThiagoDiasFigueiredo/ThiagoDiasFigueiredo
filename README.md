@@ -1,16 +1,76 @@
-## Hi there 👋
+<!-- ============================================================
+  ANTES DE USAR: substitua todos os trechos marcados com SEU_...
+  - SEU_USUARIO  -> seu username do GitHub
+  - SEU_NOME     -> seu nome
+  - links de redes sociais, tecnologias e projetos
+============================================================ -->
 
-<!--
-**ThiagoDiasFigueiredo/ThiagoDiasFigueiredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Thiago Dias de Figueiredo</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor(a)+Full+Stack;Apaixonado(a)+por+tecnologia;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitas&color=58a6ff&style=flat-square" alt="Contador de visitas" />
+  <img src="https://img.shields.io/github/followers/SEU_USUARIO?label=Seguidores&style=flat-square&color=58a6ff" alt="Seguidores" />
+</p>
+
+---
+
+## 🧑‍💻 Sobre mim
+
+- 🌱 Estudando **Ciência de Dados e Inteligência Artificil**
+- 👨‍💻 HARD SKILLS: **Python, APIs, SQL**
+- 📍 **João Pessoa - Brasil**
+
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/ThiagoDiasFigueiredo/Assistente-de-voz-Spotify">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoDiasFigueiredo&repo=Assitente-de-voz-Spotify&theme=tokyonight&hide_border=true" alt="Projeto 1" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/ThiagoDiasFigueiredo/Caca_ao_tesouro_Pygame">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoDiasFigueiredo&repo=Caca_ao_tesouro_Pygame&theme=tokyonight&hide_border=true" alt="Projeto 2" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Meus Contatos:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thiago-dias-de-figueiredo-5045b6425/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailtoThiagodfigueiredo12@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  </a>
+</p>
+
+<p align="center">
+  <i>"Código limpo sempre parece que foi escrito por alguém que se importa."</i>
+</p>
