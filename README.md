@@ -1,32 +1,43 @@
 <!-- ============================================================
   ANTES DE USAR: substitua todos os trechos marcados com SEU_...
-  - SEU_USUARIO  -> seu username do GitHub
+  - ThiagoDiasFigueiredo  -> seu username do GitHub (sem @)
   - SEU_NOME     -> seu nome
   - links de redes sociais, tecnologias e projetos
 ============================================================ -->
---> <h1 align="center">Thiago Dias de Figueiredo</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor Python;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitas&color=58a6ff&style=flat-square" alt="Contador de visitas" /> <img src="https://img.shields.io/github/followers/SEU_USUARIO?label=Seguidores&style=flat-square&color=58a6ff" alt="Seguidores" /> </p>
+
+<h1 align="center">Thiago Dias de Figueiredo</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo" alt="Texto animado" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ThiagoDiasFigueiredo?tab=followers">
+    <img src="https://img.shields.io/github/followers/ThiagoDiasFigueiredo?label=Seguidores&style=for-the-badge&logo=github&color=58a6ff" alt="Seguidores" />
+  </a>
+  <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2FThiagoDiasFigueiredo&label=Visitas&labelColor=%23161b22&countColor=%2358a6ff&style=for-the-badge" alt="Visitas" />
+</p>
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-- 🌱 Estudando **Ciência de Dados e Inteligência Artificil**
-- 👨‍💻 HARD SKILLS: **Python, APIs, SQL**
+- 🌱 Estudante de **Ciência de Dados e Inteligência Artificial** 
+- 👨‍💻 Hard Skills: **Python, SQL, Git**
 - 📍 **João Pessoa - Brasil**
 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🛠️ Tecnologias e ferramentas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThiagoDiasFigueiredo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDiasFigueiredo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,git,github,docker,postgres,mongodb,linux,vscode&theme=dark" alt="Tecnologias" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoDiasFigueiredo&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
+<!-- Lista completa de ícones: https://github.com/tandpfun/skill-icons -->
 
 ---
 
@@ -35,13 +46,13 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/ThiagoDiasFigueiredo/Assistente-de-voz-Spotify">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoDiasFigueiredo&repo=Assitente-de-voz-Spotify&theme=tokyonight&hide_border=true" alt="Assistente de voz para Spotify" />
+      <a href="https://github.com/ThiagoDiasFigueiredo/Caca_ao_tesouro_Pygame">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoDiasFigueiredo&repo=Caca_ao_tesouro_Pygame&theme=tokyonight&hide_border=true" alt="Caca_ao_tesouro_Pygame" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/ThiagoDiasFigueiredo/Caca_ao_tesouro_Pygame">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoDiasFigueiredo&repo=Caca_ao_tesouro_Pygame&theme=tokyonight&hide_border=true" alt="Caça ao tesouro" />
+      <a href="https://github.com/ThiagoDiasFigueiredo/Assistente-de-voz-Spotify">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoDiasFigueiredo&repo=Assistente-de-voz-Spotify&theme=tokyonight&hide_border=true" alt="Assistente-de-voz-Spotify" />
       </a>
     </td>
   </tr>
@@ -49,14 +60,17 @@
 
 ---
 
-## 📫 Meus Contatos:
+## 📫 Vamos conversar?
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiago-dias-de-figueiredo-5045b6425/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailtoThiagodfigueiredo12@gmail.com">
+  <a href="mailto:Thiagodfigueiredo12@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
-  </a>
+  
+  
+<p align="center">
+  <i>"Código limpo sempre parece que foi escrito por alguém que se importa."</i>
 </p>
