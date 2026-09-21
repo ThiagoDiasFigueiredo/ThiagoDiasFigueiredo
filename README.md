@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo" alt="Texto animado" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Python;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo" alt="Texto animado" />
   </a>
 </p>
 
@@ -20,7 +20,6 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2FThiagoDiasFigueiredo&label=Visitas&labelColor=%23161b22&countColor=%2358a6ff&style=for-the-badge" alt="Visitas" />
 </p>
 
----
 
 ## 🧑‍💻 Sobre mim
 
@@ -28,18 +27,6 @@
 - 👨‍💻 Hard Skills: **Python, SQL, Git**
 - 📍 **João Pessoa - Brasil**
 
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,git,github,docker,postgres,mongodb,linux,vscode&theme=dark" alt="Tecnologias" />
-</p>
-
-<!-- Lista completa de ícones: https://github.com/tandpfun/skill-icons -->
-
----
 
 ## 🚀 Projetos em destaque
 
