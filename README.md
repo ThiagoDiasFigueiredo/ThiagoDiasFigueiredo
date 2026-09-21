@@ -11,10 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor Python;Apaixonado+por+tecnologia%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThiagoDiasFigueiredo&label=Visitas&color=58a6ff&style=flat-square" alt="Contador de visitas" />
-  <img src="https://img.shields.io/github/followers/ThiagoDiasFigueiredo?label=Seguidores&style=flat-square&color=58a6ff" alt="Seguidores" />
-</p>
 
 ---
 
@@ -69,8 +65,4 @@
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
   </a>
-</p>
-
-<p align="center">
-  <i>"Código limpo sempre parece que foi escrito por alguém que se importa."</i>
 </p>
